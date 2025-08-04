@@ -5,7 +5,8 @@
 Please refer to the PyTorch documentation [here](https://pytorch.org/docs/stable/distributed.elastic.html).
 
 
-
 2. The TorchElastic Controller for Kubernetes is no longer being actively maintained in favor of [TorchX](https://pytorch.org/torchx).
+
+3. Thanks!
 
 
