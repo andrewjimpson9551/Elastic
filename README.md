@@ -1,6 +1,6 @@
 # TorchElastic
 
-**IMPORTANT:** This repository is deprecated.
+**Important:** This repository is deprecated.
 1. TorchElastic has been upstreamed to PyTorch 1.9 under `torch.distributed.elastic`.
 Please refer to the PyTorch documentation [here](https://pytorch.org/docs/stable/distributed.elastic.html).
 
@@ -8,4 +8,4 @@ Please refer to the PyTorch documentation [here](https://pytorch.org/docs/stable
 
 2. The TorchElastic Controller for Kubernetes is no longer being actively maintained in favor of [TorchX](https://pytorch.org/torchx).
 
-3. Thanks for your time!
+
